@@ -760,4 +760,11 @@ input[type=range]:focus::-ms-fill-upper {
 .video-volume {
     max-width: 100px;
 }
+.radio-icon {
+    margin: 5px;
+}
+
+.radio-volume {
+    max-width: 100px;
+}
 /*# sourceMappingURL=style.min.css.map */
